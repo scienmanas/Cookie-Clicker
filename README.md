@@ -13,7 +13,7 @@ Before running the script, make sure you have the following installed:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-   git clone https://github.com/your-username/selenium-cookie-clicker.git
+git clone https://github.com/scienmanas/selenium-cookie-clicker.git
 ```
 
 ## Steps
